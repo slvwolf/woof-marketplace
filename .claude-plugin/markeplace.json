@@ -1,0 +1,18 @@
+{
+  "name": "company-tools",
+  "owner": {
+  "name": "DevTools Team",
+  "email": "devtools@example.com"
+  },
+  "plugins": [
+    {
+      "name": "my-plugin",
+      "source": "./plugins/my-plugin",
+      "description": "Internal Claude helpers",
+      "version": "1.0.0",
+      "author": {
+        "name": "Example Team"
+      }
+    }
+  ]
+}
