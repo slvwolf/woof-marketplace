@@ -1,8 +1,8 @@
 {
   "name": "company-tools",
   "owner": {
-  "name": "DevTools Team",
-  "email": "devtools@example.com"
+    "name": "DevTools Team",
+    "email": "devtools@example.com"
   },
   "plugins": [
     {
