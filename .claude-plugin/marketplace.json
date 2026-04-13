@@ -9,7 +9,7 @@
       "name": "my-plugin",
       "source": "./plugins/my-plugin",
       "description": "Internal Claude helpers",
-      "version": "1.0.0",
+      "version": "1.0.5",
       "author": {
         "name": "Example Team"
       }
